@@ -18,6 +18,19 @@ Sistem temel olarak şu akışla çalışır:
 6-Uygulanabilir Önerilen Aksiyonlar sunulur
   Bu yapı, gerçek bir ağ izleme sisteminin sadeleştirilmiş bir temsilidir.
 
+##  Teknoloji Stack
+  Backend
+-Python 3.10+
+-FastAPI - Modern, hızlı web framework
+-Gemini 3 Flash - Google AI
+-Uvicorn - ASGI server
+  Frontend
+-React 18 - UI framework
+-Vite - Build tool
+-Tailwind CSS - Styling
+-Lucide React - Icons
+-Axios - HTTP client
+
 ## Demo Senaryoları
 Uygulama, farklı ağ problemlerini temsil eden ön tanımlı senaryolar içerir. Her senaryo, farklı metrik değerleri ve farklı sonuç ekranları üretir.
 
