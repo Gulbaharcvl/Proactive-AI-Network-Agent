@@ -24,6 +24,7 @@ Sistem temel olarak şu akışla çalışır:
 -FastAPI - Modern, hızlı web framework
 -Gemini 3 Flash - Google AI
 -Uvicorn - ASGI server
+ 
   Frontend
 -React 18 - UI framework
 -Vite - Build tool
